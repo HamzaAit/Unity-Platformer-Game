@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{601B8C40-1FF7-5140-1BBD-4ABD74EE0EB9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Assets/Script/EnemyAi.cs">
+    <Files>
+      <File FileName="Assets/Assets/Script/Health.cs" Line="31" Column="43" />
+      <File FileName="Assets/Assets/Script/HealthText.cs" />
+      <File FileName="Assets/Assets/Script/Movement.cs" Line="104" Column="10" />
+      <File FileName="Assets/Assets/Script/damager.cs" />
+      <File FileName="Assets/Assets/Script/enemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Assets/Script/EnemyAi.cs" Line="45" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c2af9c7e-7c08-4d59-8e39-79050be2514b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
